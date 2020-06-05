@@ -1,0 +1,7 @@
+C:\Users\hitler\Source\Repos\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\hitler\Source\Repos\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\hitler\Source\Repos\Converter\bin\Debug\Converter.exe.config
+C:\Users\hitler\Source\Repos\Converter\bin\Debug\Converter.exe
+C:\Users\hitler\Source\Repos\Converter\bin\Debug\Converter.pdb
+C:\Users\hitler\Source\Repos\Converter\obj\Debug\Converter.exe
+C:\Users\hitler\Source\Repos\Converter\obj\Debug\Converter.pdb
